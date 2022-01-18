@@ -9,6 +9,7 @@ Windows registry to change taskbar opacity/make taskbar transparent
 
 <br>
 
+## Screenshots
 #### Before
 <img id="img1" src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/value255.png" width="800px" align="center">
 
@@ -24,6 +25,8 @@ Windows registry to change taskbar opacity/make taskbar transparent
 * Taskbar transparency needs to be `ON`
 * Create a new DWORD (32 bit) value named `TaskbarAcrylicOpacity`
 * Edit value from `0 to 255` (transparent to solid)
+
+<br><br>
 
 ## To see changes:
   * Restart `Windows Explorer` through Task Manager 
