@@ -42,7 +42,7 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 
 <br>
 
-4. Inside this path, create a new **DWORD(32 bit) value** named `TaskbarAcrylicOpacity`.
+4. Inside this path, create a new **DWORD(32 bit) Value** named `TaskbarAcrylicOpacity`.
 
     <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/DWORD32.png" width="325px" align="center">
 
