@@ -55,19 +55,23 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 <br>
 
 ## Changing back
-Delete the registry word 
+Delete the registry word.
 
 OR
 
-Change value to 255
+Change value to 255.
+
+OR
+
+Turn taskbar transparency effects `Off`, making taskbar solid.
 
 <br>
 
 ## To see changes:
-Restart `Windows Explorer` through Task Manager
+Restart `Windows Explorer` through Task Manager.
 
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/restart.png" width="325px" align="center">
 
 OR
 
-Restart computer
+Restart computer.
