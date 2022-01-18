@@ -1,5 +1,5 @@
-# TaskbarAcrylicOpacity
-Windows 10 registry.
+<h1 align="center"> TaskbarAcrylicOpacity <br> Windows 10 registry</h1>
+
 
 This is a way of changing Windows 10 taskbar opacity/make taskbar transparent without 3rd party software. This way you get less processes running on Windows.
 #### Registry path
@@ -24,33 +24,33 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 <br><br>
 
 ## Steps
-Taskbar transparency effects needs to be `On`.
+1. Taskbar transparency effects needs to be `On`.
 
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/transparency.png" width="325px" align="center">
-
-<br>
-
-Open Registry, press **WIN+R** and type `regedit`.
-
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/winR.png" width="325px" align="center">
+    <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/transparency.png" width="325px" align="center">
 
 <br>
 
-Copy paste the path [above](#registry-path).
+2. Open Registry, press **WIN+R** and type `regedit`.
 
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/path.png" width="600px" align="center">
-
-<br>
-
-Inside this path, create a new **DWORD(32 bit) value** named `TaskbarAcrylicOpacity`.
-
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/DWORD32.png" width="325px" align="center">
+    <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/winR.png" width="325px" align="center">
 
 <br>
 
-Edit value and choose from `0 to 255` (transparent to solid). For example, if you set the value to `20` it will be `blured`.
+3. Copy paste the path [above](#registry-path).
 
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/editValue.png" width="325px" align="center">
+    <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/path.png" width="600px" align="center">
+
+<br>
+
+4. Inside this path, create a new **DWORD(32 bit) value** named `TaskbarAcrylicOpacity`.
+
+    <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/DWORD32.png" width="325px" align="center">
+
+<br>
+
+5. Edit value and choose from `0 to 255` (transparent to solid). For example, if you set the value to `20` it will be `blured`.
+
+    <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/editValue.png" width="325px" align="center">
 
 <br>
 
