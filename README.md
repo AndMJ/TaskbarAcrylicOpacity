@@ -74,4 +74,4 @@ Restart `Windows Explorer` through Task Manager.
 
 OR
 
-Restart computer.
+Reboot/restart computer.
