@@ -1,5 +1,7 @@
 # TaskbarAcrylicOpacity
-Windows registry to change taskbar opacity/make taskbar transparent
+Windows 10 registry.
+
+This is a way of changing Windows 10 taskbar opacity/make taskbar transparent without 3rd party software.
 #### Registry path
 `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 #### Registry name
@@ -22,9 +24,9 @@ Windows registry to change taskbar opacity/make taskbar transparent
 <br><br>
 
 ## Steps
-* Taskbar transparency needs to be `ON`
-* Create a new DWORD (32 bit) value named `TaskbarAcrylicOpacity`
-* Edit value from `0 to 255` (transparent to solid)
+1. Taskbar transparency needs to be `ON`
+2. Create a new DWORD (32 bit) value named `TaskbarAcrylicOpacity`
+3. Edit value from `0 to 255` (transparent to solid)
 
 <br><br>
 
