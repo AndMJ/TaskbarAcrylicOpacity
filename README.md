@@ -29,17 +29,17 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 
 <br>
 
-2. Open Registry (WIN+R) and type `regedit`
+2. Open Registry, (WIN+R) and type `regedit`
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/winR.png" width="325px" align="center">
 
 <br>
 
 3. Copy paste the path above
-<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/path.png" width="325px" align="center">
+<img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/path.png" width="600px" align="center">
 
 <br>
 
-4. Create a new DWORD (32 bit) value named `TaskbarAcrylicOpacity`
+4. inside this path, create a new DWORD (32 bit) value named `TaskbarAcrylicOpacity`
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/DWORD32.png" width="325px" align="center">
 
 <br>
