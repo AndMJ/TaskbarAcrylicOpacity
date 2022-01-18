@@ -24,27 +24,32 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 <br><br>
 
 ## Steps
-1. Taskbar transparency effects needs to be `On`
+Taskbar transparency effects needs to be `On`.
+
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/transparency.png" width="325px" align="center">
 
 <br>
 
-2. Open Registry, press WIN+R and type `regedit`
+Open Registry, press **WIN+R** and type `regedit`.
+
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/winR.png" width="325px" align="center">
 
 <br>
 
-3. Copy paste the path above
+Copy paste the path [above](#registry-path).
+
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/path.png" width="600px" align="center">
 
 <br>
 
-4. Inside this path, create a new DWORD(32 bit) value named `TaskbarAcrylicOpacity`
+Inside this path, create a new **DWORD(32 bit) value** named `TaskbarAcrylicOpacity`.
+
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/DWORD32.png" width="325px" align="center">
 
 <br>
 
-5. Edit value and choose from `0 to 255` (transparent to solid). For example, if you set the value to `20` it will be `blured`.
+Edit value and choose from `0 to 255` (transparent to solid). For example, if you set the value to `20` it will be `blured`.
+
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/editValue.png" width="325px" align="center">
 
 <br>
