@@ -1,5 +1,6 @@
 # TaskbarAcrylicOpacity
 Windows registry to change taskbar opacity
+Make taskbar transparent
 #### Registry path
 * `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 #### Registry name
