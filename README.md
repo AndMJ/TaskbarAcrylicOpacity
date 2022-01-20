@@ -2,20 +2,20 @@
 
 
 This is a way of changing Windows 10 taskbar opacity/make taskbar transparent without 3rd party software. This way you get less processes running on Windows.
-#### Registry path
+#### Registry path:
 `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
-#### Registry name
+#### Registry name:
 `TaskbarAcrylicOpacity`
-#### Registry value
+#### Registry value:
 `0 to 255`
 
 <br>
 
 ## Screenshots
-#### Before
+#### Before:
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/value255.png" width="1000px" align="center">
 
-#### After
+#### After:
 <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/value0.png" width="1000px" align="center">
 
 
@@ -59,7 +59,7 @@ Delete the registry word.
 
 OR
 
-Change value to 255.
+Change the value to 255 (max blur).
 
 OR
 
