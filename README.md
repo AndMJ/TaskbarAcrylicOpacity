@@ -48,7 +48,7 @@ This is a way of changing Windows 10 taskbar opacity/make taskbar transparent wi
 
 <br>
 
-5. Edit value and choose from `0 to 255` (transparent to solid/blur). For example, if you set the value to `20` the taskbar will be `blured`, higher the value, higher the blur.
+5. Edit the DWORD and set **Value data** to `0`, if you want it to still have a litle `blur`, set the value to `10` or `20`, for example. Higher the value(max is `255`), higher the blur.
 
     <img src="https://github.com/AndMJ/TaskbarAcrylicOpacity/blob/main/images/editValue.png" width="325px" align="center">
 
