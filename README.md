@@ -1,7 +1,7 @@
 <h1 align="center"> TaskbarAcrylicOpacity <br> Windows 10 registry</h1>
 
 
-This is a way of changing Windows 10 taskbar opacity/make taskbar transparent without 3rd party software. This way you get less processes running on Windows.
+This is a way of changing Windows 10 taskbar opacity/make taskbar transparent without 3rd party software. This way you you don't need to add more processes running on Windows.
 #### Registry path:
 `HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced`
 #### Registry name:
